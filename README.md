@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuvab-chakraborty" alt="anuvab-chakraborty" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,react**
+- 🌱 I’m currently working on **DSA SKILLS**
 
-- 👨‍💻 All of my projects are available at [https://portfoliosite-xi.vercel.app/](https://portfoliosite-xi.vercel.app/)
+- 👨‍💻 All of my projects are available at [personal portfolio webite to do](https://portfoliosite-xi.vercel.app/)
 
-- 💬 Ask me about **python,data structures and algorithms, competitive coding,HTML ,CSS**
+- 💬 Ask me about **NOTHING**
 
-- 📫 How to reach me **anuvabtest@gmail.com**
+- 📫 How to reach me **anuvabwork@gmail.com**
 
-- 📄 Know about my experiences [http://drive.google.com/file/d/1jPE8C-gYZLT4rd7Dq5cPQt0vFZwerAPr/view?usp=sharing](http://drive.google.com/file/d/1jPE8C-gYZLT4rd7Dq5cPQt0vFZwerAPr/view?usp=sharing)
+- 📄 Know about my experiences [will update later](http://drive.google.com/file/d/1jPE8C-gYZLT4rd7Dq5cPQt0vFZwerAPr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
